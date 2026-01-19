@@ -1,4 +1,4 @@
-# CRIMEN
+# CRIMEN Uncover the Unseen
 
 CRIMEN is a simple and professional web application built using **React** and **Supabase** where users can **view crime cases** and **report new crime cases**. All data is stored and managed in **Supabase Database (PostgreSQL)**.
 
